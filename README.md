@@ -728,7 +728,7 @@ cybersecurity-60-days/
 
 | Day | Topic             | Theory | Practice | Notes | Status |
 | --: | ----------------- | :----: | :------: | :---: | :----: |
-|  01 | Kali Setup        |    ⬜   |     ⬜    |   ⬜   |    ⬜   |
+|  01 | Kali Setup        |    [X]   |      [X]     |    [X]    |     [X]    |
 |  02 | APT               |    ⬜   |     ⬜    |   ⬜   |    ⬜   |
 |  03 | Linux Security    |    ⬜   |     ⬜    |   ⬜   |    ⬜   |
 |  04 | Processes         |    ⬜   |     ⬜    |   ⬜   |    ⬜   |
